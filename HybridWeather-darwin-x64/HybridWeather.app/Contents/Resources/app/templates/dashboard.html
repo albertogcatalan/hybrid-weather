@@ -1,0 +1,29 @@
+<ion-view view-title="Dashboard">
+  <ion-content class="padding bg-colorBlue" has-bouncing="false">
+    <div class="list card">
+      <div class="item item-divider">City</div>
+      <div class="item item-body">
+        <div>
+          {{city}}, {{country}}
+        </div>
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item item-divider">Weather</div>
+      <div class="item item-body">
+        <div>
+          Temperature max: {{tempMax| number:0}} deg c
+        </div>
+         <div>
+          Temperature min: {{tempMin| number:0}} deg c
+        </div>
+         <div>
+          Humidity: {{humidity}}
+        </div>
+        <div>
+          Weather: {{weather}}
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

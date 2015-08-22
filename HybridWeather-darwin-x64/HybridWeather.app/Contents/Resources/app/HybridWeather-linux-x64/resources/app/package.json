@@ -1,0 +1,16 @@
+{
+  "name": "HybridWeather",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . HybridWeather --ignore=node_modules/electron-* --platform=linux --arch=x64 --version=0.28.2"
+  },
+  "author": "Naveen Ranjan Karippai",
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^0.7.2",
+    "electron-packager": "^5.0.1",
+    "electron-prebuilt": "^0.30.4"
+  }
+}
