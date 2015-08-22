@@ -15,8 +15,8 @@ http://electron.atom.io/
 
 #Initial build
 
-Linux (tested) and MAC OS version app has been packaged and is on repo. Windows version yet to be packaged.
+Linux (tested) and MAC OS (not tested) version app has been packaged and can be found on this repo. Windows version yet to be packaged.
 
-This project can be ported to cross platform mobile usng cordova and to web as web app or chrome app
+This project can be ported to cross platform mobile usng cordova and to web as web app or chrome app.
 
 
