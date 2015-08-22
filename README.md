@@ -19,4 +19,7 @@ Linux (tested) and MAC OS (not tested) version app has been packaged and can be 
 
 This project can be ported to cross platform mobile usng cordova and to web as web app or chrome app.
 
+#weather
+http://openweathermap.org/ service is used for weather forecast. Individual developers please sign up the free plan and use unique API key for development.
+
 
