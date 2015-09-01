@@ -1,4 +1,4 @@
-# HybridWeather
+# hybrid-weather
 Hybrid technologies (Electron [io.js], AngularJS, Ionic framework) to build weather app for cross platform (desktop, mobile and web)
 
 #Useful Resources
