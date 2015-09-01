@@ -17,6 +17,8 @@ http://electron.atom.io/
 
 Linux (tested) and MAC OS (not tested) version app has been packaged and can be found on this repo. Windows version yet to be packaged.
 
+![](https://github.com/NaveenKarippai/hybrid-weather/blob/master/weather1.png)
+
 This project can be ported to cross platform mobile usng cordova and to web as web app or chrome app.
 
 #Weather data
