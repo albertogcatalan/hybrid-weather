@@ -19,7 +19,7 @@ Linux (tested) and MAC OS (not tested) version app has been packaged and can be 
 
 ![](https://github.com/NaveenKarippai/hybrid-weather/blob/master/weather1.png)
 
-This project can be ported to cross platform mobile usng cordova and to web as web app or chrome app.
+This project can be ported to multiple platforms - mobile using cordova and web as a web app or chrome app.
 
 #Weather data
 http://openweathermap.org/ service is used for weather forecast. Individual developers please sign up the free plan and use unique API key for development.
