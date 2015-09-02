@@ -2,9 +2,9 @@
 Hybrid technologies (Electron [io.js], AngularJS, Ionic framework) to build weather app for cross platforms (desktop, mobile and web)
 
 ##Useful Resources
-[build electron app with Ionic framework- Raymond Camden blog](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron)
+[Raymond Camden blog - build electron app with Ionic framework](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron)
 
-[ Kyle Robinson Young YouTube cahnnel- build electron apps](https://www.youtube.com/playlist?list=PL1QRvYV-LXn6ESBl7qm1teB1U1CK1B6gv)
+[ Kyle Robinson Young YouTube cahnnel - building electron apps](https://www.youtube.com/playlist?list=PL1QRvYV-LXn6ESBl7qm1teB1U1CK1B6gv)
 
 ##Learning Resources
 [Ionic framework official documentation](http://ionicframework.com/)
