@@ -1,6 +1,14 @@
 #hybrid-weather
 Hybrid technologies (Electron [io.js], AngularJS, Ionic framework) to build weather app for cross platforms (desktop, mobile and web)
 
+### Quick start
+
+```
+$ git clone https://github.com/NaveenKarippai/hybrid-weather
+$ cd hybrid-weather/app
+$ http-server
+```
+
 ###Useful Resources
 * [Raymond Camden blog - build electron app with Ionic framework](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron)
 
