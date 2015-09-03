@@ -18,7 +18,7 @@ $ http-server
 
 * [Angular official documentation](https://angularjs.org/)
 
-* [electron official documentation](http://electron.atom.io/)
+* [Electron official documentation](http://electron.atom.io/)
 
 ###Initial build
 
